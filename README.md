@@ -1,3 +1,7 @@
+<a href=["https://www.linkedin.com/in/hrushikeshkute">
+  <img align="left" alt="Hrushikesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ## Hi,👋 I’m Hrushikesh.
 - 👀 I’m interested in working on NLP problems.
 - 🌱 I’m currently learning https://livebook.manning.com/book/deep-learning-with-python-second-edition/
