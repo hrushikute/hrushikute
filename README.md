@@ -1,4 +1,4 @@
-<a href=["https://www.linkedin.com/in/hrushikeshkute">
+<a href="https://www.linkedin.com/in/hrushikeshkute">
   <img align="left" alt="Hrushikesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
